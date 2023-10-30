@@ -27,28 +27,28 @@ Before we can create the reports, we need to gather and organize the necessary d
 
 This report will identify and rank customers based on their transaction amounts. It will provide insights into the most valuable customers for LES.
 
-![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/2b7bfdab-5a91-4d84-89f4-54613116ed54)
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/e60f90dd-362c-4610-b641-2e6e9ed80384)
+
 
 
 ### Report 2: Product Sales for a Period
 
 This report will analyze product sales for a specified period. It will include information on the most sold products, revenue generated, and quantities sold.
 
-![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/388f3978-afcf-4d85-a19e-8166dfd13567)
-
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/3355bdd5-9af0-4131-8c7a-4dc0697355d1)
 
 ### Report 3: ARPU for City and State
 
 ARPU (Average Revenue Per User) will be calculated for different cities and states. This will help understand revenue trends across different geographical regions.
 
-![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/fc057534-8724-42f6-91ff-299ef63802aa)   ![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/df2bbeab-5c57-47c8-8a8a-1539b60c976d)
-
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/9a4d193e-3586-4e86-b27d-dcc7476d332a)  ![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/e8ebce28-9dcb-40d0-b158-d7f28815c75f)
 
 
 ### Report 4: Sales by Category with City Level Breakup
 
 This report will break down sales by product category, providing insights into which categories are performing well in each city.
 
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/f1388888-a623-4c47-95b4-76580e7dabad)
 
 ## Analysis Tools
 
