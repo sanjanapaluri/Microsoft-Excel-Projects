@@ -34,11 +34,14 @@ This report will identify and rank customers based on their transaction amounts.
 
 This report will analyze product sales for a specified period. It will include information on the most sold products, revenue generated, and quantities sold.
 
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/388f3978-afcf-4d85-a19e-8166dfd13567)
 
 
 ### Report 3: ARPU for City and State
 
 ARPU (Average Revenue Per User) will be calculated for different cities and states. This will help understand revenue trends across different geographical regions.
+
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/fc057534-8724-42f6-91ff-299ef63802aa)   ![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/df2bbeab-5c57-47c8-8a8a-1539b60c976d)
 
 
 
