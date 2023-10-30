@@ -27,6 +27,7 @@ Before we can create the reports, we need to gather and organize the necessary d
 
 This report will identify and rank customers based on their transaction amounts. It will provide insights into the most valuable customers for LES.
 
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/2b7bfdab-5a91-4d84-89f4-54613116ed54)
 
 
 ### Report 2: Product Sales for a Period
