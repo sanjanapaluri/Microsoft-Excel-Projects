@@ -75,9 +75,12 @@ To create these reports, we will use spreadsheet software like Microsoft Excel o
     To calculate sales for a specific transaction, we'll create a new column next to "Price (INR)" and compute sales
     using the formula: Sales = Quantity * Price.
 
+![Capture](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/78a13b5c-db18-4e53-9b83-890e2a4fe5de)
+
 
 ### Question 2: Customer ID for the Highest Sales
 
+![Capture](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/6bcebe3b-bacc-471a-87f5-2b0c738be858)
 
 
 ## Task 2: Festival Offer Sales Analysis
@@ -86,6 +89,7 @@ The sales manager wants to understand the sales during the festival offer period
 
 ### Question 1: What is the product description of the product with the highest sales? What is the sales amount of the product with the highest sales?
 
+![Capture](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/b6d8a8b5-8226-4061-9eff-3cb9198ff5ea)
 
 
 ## Task 3: Average Revenue Per User (ARPU) by State
@@ -94,6 +98,7 @@ The goal is to calculate the Average Revenue Per User (ARPU) for each state, whi
 
 ### Question 1: Average Revenue Per Customer for Maharashtra
 
+![Capture](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/dbd39b13-d7f7-4745-a368-9a85b65945ab)
 
 
 ## Task 4: Sales by Category with City Level Breakup
@@ -102,4 +107,5 @@ The sales manager wants to determine which category of products sells more in ea
 
 ### Question 1: Sales Amount of 'Cereals' in Pune
 
+![Capture](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/6da14f0a-0cd5-42c3-b6af-fbb7e4e3191c)
 
