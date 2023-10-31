@@ -39,3 +39,4 @@ For the first 0.5 KG, a "fixed" rate is applicable. For each additional 0.5 KG, 
 
 The goal is to create a resultant CSV file with the following columns:
 
+![image](https://github.com/sanjanapaluri/Microsoft-Excel-Projects/assets/127730680/15f6530b-0d91-460a-8a61-b2009c0585dd)
